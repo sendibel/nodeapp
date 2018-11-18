@@ -1,0 +1,49 @@
+@media (min-width: 576px) {
+
+};
+
+
+@media (min-width: 768px) {
+
+};
+
+
+@media (min-width: 992px) {
+
+};
+
+
+@media (min-width: 1200px) {
+
+};
+.layout {
+	font-size: larger;
+    float: left;
+}
+p {
+	clear: both;
+	font: sans-serif;
+	color: white;
+}
+footer {
+	color: white;
+	margin-left: 400px;
+}
+nav {
+	float: right;
+	color: white;
+}
+h1 {
+	background-color: lightgrey;
+	margin-top: 10px;
+}
+.container {
+	background-color: grey;
+	width: 900px;
+	position: relative;
+}
+body {
+	width: 900px;
+	height: 900px;
+	background-color: #FF5D39;
+}
